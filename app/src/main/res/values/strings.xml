@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">UserUbication</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title">Permiso de ubicación</string>
+    <string name="message">Es necesario conceder el permiso de ubicación para un correcto funcionamiento de la pp</string>
+
 </resources>
